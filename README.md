@@ -45,3 +45,9 @@ Accuracy
 Precision / Recall / F1
 
 ROC-AUC / PR-AUC
+
+## 效果对比
+<div align="center">
+  <img src="img/1.png">
+  <img src="img/2.png">
+</div>
