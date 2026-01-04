@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/aclImdb/
+*.tar.gz
+
+# Training artifacts
+*.pt
+*.ckpt
+logs/
+runs/
+
+# OS
+.DS_Store
+
